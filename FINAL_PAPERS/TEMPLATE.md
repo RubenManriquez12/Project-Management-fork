@@ -1,10 +1,7 @@
 ## FarmLink: Platform for Local Food Transparency
 Ruben Manriquez, Spring 2026
 
-| ![](https://github.com/RubenManriquez12/Project-Management-fork/blob/main/FINAL_PAPERS/Screenshot%202026-04-30%20212915.png)) | 
-| :--: |
-| <b>Figure 1.</b> Caption test. [Store image as an issue](https://github.com/OREL-group/Project-Management/issues/279) or in the local directory. |  
-### Introduction
+| ![](https://github.com/RubenManriquez12/Project-Management-fork/blob/main/FINAL_PAPERS/Screenshot%202026-04-30%20212915.png)
 
 In many communities across the United States, there is a growing disconnect between consumers and the origins of the food they consume. While local farms and smaller scale producers exist in nearly every region, access to reliable, centralized, and updated information about these sources remains limited. Consumers often rely on large grocery chains and global supply networks, not necessarily because they prefer them, but because they are the most visible and accessible options. At the same time, small farms face ongoing challenges in marketing their products and reaching broader audiences, limiting their ability to compete in an increasingly consolidated food system.
 
