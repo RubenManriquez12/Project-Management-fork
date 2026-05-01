@@ -3,6 +3,7 @@ Ruben Manriquez, Spring 2026
 
 | ![](https://github.com/RubenManriquez12/Project-Management-fork/blob/main/FINAL_PAPERS/Screenshot%202026-04-30%20212915.png)
 
+#### Introduction
 In many communities across the United States, there is a growing disconnect between consumers and the origins of the food they consume. While local farms and smaller scale producers exist in nearly every region, access to reliable, centralized, and updated information about these sources remains limited. Consumers often rely on large grocery chains and global supply networks, not necessarily because they prefer them, but because they are the most visible and accessible options. At the same time, small farms face ongoing challenges in marketing their products and reaching broader audiences, limiting their ability to compete in an increasingly consolidated food system.
 
 This disconnect is not simply a matter of consumer choice, it is a structural issue rooted in information gaps. Information about local farms is frequently fragmented across individual websites, social media platforms, seasonal farmers markets, and informal community networks. These sources are often inconsistent, outdated, or difficult to navigate, creating barriers for individuals who want to make more intentional decisions about their food consumption. As a result, local food systems remain less utilized despite growing interest in sustainability, ethical sourcing, and community based economies.
@@ -40,7 +41,14 @@ This project matters not only because it addresses a practical problem, but beca
 
 [Comment_4]: <> (Insert Figure with caption here)
 
-#### Subheading     
+#### Project Overview   
+
+As mentioned, FarmLink is a web based application designed to connect users with local farms and ingredient sources. The platform allows users to search for farms based on location, product categories, and availability, providing detailed information about each listing. This includes farm descriptions, product offerings, operating hours, contact information, and access methods.
+
+The platform is designed with two primary user groups in mind; consumers and producers. Consumers can use FarmLink to discover local food sources and make informed purchasing decisions, while producers can use the platform to increase their visibility and connect with new customers. By bridging this gap, the platform supports both local economies and sustainable food systems. A key feature of FarmLink is its emphasis on usability and accessibility. The interface is designed to be intuitive, allowing users to navigate the platform without requiring advanced technical skills. At the same time, the backend infrastructure is built to support scalability and long-term growth.
+
+The technical foundation of the platform is based on Django and PostgreSQL. Django provides a robust framework for handling application logic, user authentication, and data management, while PostgreSQL offers a reliable and scalable database solution. Together, these tools create a stable environment for managing complex relational data. Rather than prioritizing highly complex features, FarmLink focuses on building a reliable and maintainable system. This approach aligns with the project’s long-term goals of sustainability and community driven development.
+
 
 [Comment_5]: <> (begin your text here)
 
