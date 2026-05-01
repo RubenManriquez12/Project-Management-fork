@@ -1,7 +1,7 @@
 ## FarmLink: Platform for Local Food Transparency
 Ruben Manriquez, Spring 2026
 
-| ![](https://user-images.githubusercontent.com/38323286/233691025-55deb1db-3e35-4589-8c55-4f859f8e41cd.jpg) | 
+| ![](https://github.com/RubenManriquez12/Project-Management-fork/blob/main/FINAL_PAPERS/Screenshot%202026-04-30%20212915.png)) | 
 | :--: |
 | <b>Figure 1.</b> Caption test. [Store image as an issue](https://github.com/OREL-group/Project-Management/issues/279) or in the local directory. |  
 ### Introduction
