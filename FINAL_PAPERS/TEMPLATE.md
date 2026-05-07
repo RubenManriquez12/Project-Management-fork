@@ -35,7 +35,7 @@ Beyond individual use, this project also has broader implications for community 
 This project matters not only because it addresses a practical problem, but because it reflects a larger goal of making information more equitable and accessible. By applying open-source principles and community driven design, FarmLink seeks to create a platform that is not only functional, but also inclusive and adaptable to the needs of different communities.
 
 
-| ![](| ![](https://github.com/RubenManriquez12/Project-Management-fork/blob/main/FINAL_PAPERS/Screenshot%202026-04-30%20212915.png))
+| ![](| ![](https://github.com/RubenManriquez12/Project-Management-fork/blob/a5091a455a3115114b1516ca1ba677555c36dadd/FINAL_PAPERS/Screenshot%202026-05-06%20210504.png)
 | :--: |
 | <b>Figure 1.</b> Caption test. [Store image as an issue](https://github.com/OREL-group/Project-Management/issues/279) or in the local directory. |   
 
