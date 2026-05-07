@@ -38,7 +38,7 @@ This project matters not only because it addresses a practical problem, but beca
 ![](https://github.com/RubenManriquez12/Project-Management-fork/blob/a5091a455a3115114b1516ca1ba677555c36dadd/FINAL_PAPERS/Screenshot%202026-05-06%20210504.png)
 
 |
-<b>Figure 1.</b> Walmarts Across the USA. Source: [Yahoo Finance](https://finance.yahoo.com/news/walmart-still-reigns-americas-retail-king-now-183700586.html) |   
+<b>Figure 1.</b>(Swaminathan, 2019) Walmarts Across the USA. Source: [Yahoo Finance](https://finance.yahoo.com/news/walmart-still-reigns-americas-retail-king-now-183700586.html) |   
 
 [Comment_4]: <> (Insert Figure with caption here)
 
@@ -115,4 +115,6 @@ Ultimately, FarmLink highlights the potential of collaborative systems to bridge
 
 [Comment_8]: <> (begin your reference list here. Cite as author, year in main text. Reference link should correpond with link in Comment 2  Use any format you wish -- MLA, APA, etc.)
 
-Cite as the form (Lastname, 2023) in the body of your text. List reference citation in this section. 
+Swaminathan, Aarthi, 2019. Why Walmart still reigns as America's retail king (for now). https://finance.yahoo.com/news/walmart-still-reigns-americas-retail-king-now-183700586.html
+
+University of Illinois, College of Agriculutral Consumer, and Environmental Sciences. https://www.illinoisfarmdirect.org/
