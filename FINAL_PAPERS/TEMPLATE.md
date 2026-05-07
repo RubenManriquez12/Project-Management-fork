@@ -76,7 +76,7 @@ This governance model addresses common challenges in open-source projects, such 
 
 ### Workflow and Process Mapping
 
-![](FINAL_PAPERS/Grey Blue Pink Green Bold Project Status Steps Flowchart (2).png)
+![](https://github.com/RubenManriquez12/Project-Management-fork/blob/main/FINAL_PAPERS/Grey%20Blue%20Pink%20Green%20Bold%20Project%20Status%20Steps%20Flowchart%20(2).png)
 The workflow for FarmLink follows a structured cycle of submission, review, and release. This process aligns with workflow mapping principles discussed in class, emphasizing clarity, modularity, and continuous improvement.
 The submission stage involves collecting new data from users or contributors. This may include adding new farm listings or updating existing information. The review stage involves verifying the accuracy and completeness of submissions. Maintainers evaluate each entry based on predefined criteria, ensuring consistency and reliability. The release stage involves integrating approved updates into the platform and making them publicly accessible.
 This workflow is supported by a Kanban based project management system, where tasks are represented as GitHub issues and move through stages such as Backlog, To Do, Ready, In Progress, In Review, and Done. This structure provides a visual representation of progress and helps contributors understand the current state of the project.
