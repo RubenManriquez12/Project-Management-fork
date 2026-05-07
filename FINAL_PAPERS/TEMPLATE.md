@@ -38,7 +38,7 @@ This project matters not only because it addresses a practical problem, but beca
 ![](https://github.com/RubenManriquez12/Project-Management-fork/blob/a5091a455a3115114b1516ca1ba677555c36dadd/FINAL_PAPERS/Screenshot%202026-05-06%20210504.png)
 
 |
-<b>Figure 1.</b> Walmarts Across the USA. Source: YahooFinance[https://finance.yahoo.com/news/walmart-still-reigns-americas-retail-king-now-183700586.html]|   
+<b>Figure 1.</b> Walmarts Across the USA. Source: [Yahoo Finance](https://finance.yahoo.com/news/walmart-still-reigns-americas-retail-king-now-183700586.html)|   
 
 [Comment_4]: <> (Insert Figure with caption here)
 
