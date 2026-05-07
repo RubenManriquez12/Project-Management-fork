@@ -76,12 +76,13 @@ This governance model addresses common challenges in open-source projects, such 
 
 ### Process Mapping
 
-![](https://github.com/RubenManriquez12/Project-Management-fork/blob/main/FINAL_PAPERS/Grey%20Blue%20Pink%20Green%20Bold%20Project%20Status%20Steps%20Flowchart%20(2).png)
 The process that FarmLink follows a structured cycle of submission, review, and release. This process aligns with workflow mapping principles discussed in class, emphasizing clarity, modularity, and continuous improvement. The submission stage involves collecting new data from users or contributors. This may include adding new farm listings or updating existing information. The review stage involves verifying the accuracy and completeness of submissions. Maintainers evaluate each entry based on predefined criteria, ensuring consistency and reliability. The release stage involves integrating approved updates into the platform and making them publicly accessible. This workflow is supported by a Kanban based project management system, where tasks are represented as GitHub issues and move through stages such as Backlog, To Do, Ready, In Progress, In Review, and Done. This structure provides a visual representation of progress and helps contributors understand the current state of the project.
 
 ### Project Management Approach
 
-FarmLink adopts an Agile project management approach, emphasizing flexibility, iteration, and continuous improvement. The use of a Kanban board allows the project to manage tasks in a dynamic and responsive manner.
+![](https://github.com/RubenManriquez12/Project-Management-fork/blob/main/FINAL_PAPERS/Grey%20Blue%20Pink%20Green%20Bold%20Project%20Status%20Steps%20Flowchart%20(2).png)
+
+FarmLink adopts an agile project management approach, emphasizing flexibility, iteration, and continuous improvement. 
 Each task is tracked as a GitHub issue, with labels used to categorize work and indicate priority. Contributors can easily identify tasks that require attention and collaborate on solutions. The iterative nature of Agile development ensures that the project evolves based on feedback and changing requirements.
 Regular updates and reviews help maintain alignment with project goals. By continuously refining processes and addressing challenges, the project remains adaptable and resilient.
 
@@ -105,7 +106,7 @@ Sustainability will depend on continued community engagement and effective proje
 
 ### Conclusion
 
-FarmLink represents a practical application of open-source principles to address a real-world challenge in local food systems. By creating a centralized, community-driven platform for accessing farm information, the project aims to improve transparency, support small producers, and strengthen local economies.
+FarmLink represents a practical application of open-source principles to address a real world challenge in local food systems. By creating a centralized, community driven platform for accessing farm information, the project aims to improve transparency, support small producers, and strengthen local economies.
 Through structured workflows, Agile project management, and community collaboration, FarmLink demonstrates how open-source projects can be effectively managed and sustained. While challenges such as technical debt, scalability, and contributor turnover must be addressed, the project provides a strong foundation for long-term success.
 Ultimately, FarmLink highlights the potential of collaborative systems to bridge information gaps and empower communities. Its success will depend not only on technical implementation but on the active participation and engagement of the people it serves.
 
