@@ -1,7 +1,7 @@
 ## FarmLink: Platform for Local Food Transparency
 Ruben Manriquez, Spring 2026
 
-| ![](https://github.com/RubenManriquez12/Project-Management-fork/blob/main/FINAL_PAPERS/Screenshot%202026-04-30%20212915.png)
+![](https://github.com/RubenManriquez12/Project-Management-fork/blob/main/FINAL_PAPERS/Screenshot%202026-04-30%20212915.png)
 
 #### Introduction
 In many communities across the United States, there is a growing disconnect between consumers and the origins of the food they consume. While local farms and smaller scale producers exist in nearly every region, access to reliable, centralized, and updated information about these sources remains limited. Consumers often rely on large grocery chains and global supply networks, not necessarily because they prefer them, but because they are the most visible and accessible options. At the same time, small farms face ongoing challenges in marketing their products and reaching broader audiences, limiting their ability to compete in an increasingly consolidated food system.
@@ -97,7 +97,7 @@ Several risks must be addressed to ensure the success of FarmLink. Contributor t
 Scalability is another challenge. As the platform grows, it may require more advanced infrastructure, such as cloud-based hosting solutions. This transition can be complex and resource-intensive.
 Data accuracy is also critical. Since the platform relies on community contributions, maintaining reliable information requires effective review processes and clear guidelines.
 
-###Future Development and Sustainability
+### Future Development and Sustainability
 
 Future development of FarmLink will focus on expanding functionality and improving user experience. Potential features include advanced filtering, location-based search, and integration with mapping tools.
 The platform may also expand to additional regions, allowing it to serve a broader audience. Partnerships with local organizations could further enhance its impact.
