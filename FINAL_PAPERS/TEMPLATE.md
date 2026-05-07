@@ -38,7 +38,7 @@ This project matters not only because it addresses a practical problem, but beca
 ![](https://github.com/RubenManriquez12/Project-Management-fork/blob/a5091a455a3115114b1516ca1ba677555c36dadd/FINAL_PAPERS/Screenshot%202026-05-06%20210504.png)
 
 |
-<b>Figure 1.</b> Walmarts Across the USA. Source: [Yahoo Finance](https://finance.yahoo.com/news/walmart-still-reigns-americas-retail-king-now-183700586.html)|   
+<b>Figure 1.</b> Walmarts Across the USA. Source: [Yahoo Finance](https://finance.yahoo.com/news/walmart-still-reigns-americas-retail-king-now-183700586.html) |   
 
 [Comment_4]: <> (Insert Figure with caption here)
 
@@ -53,9 +53,33 @@ The technical foundation of the platform is based on Django and PostgreSQL. Djan
 
 [Comment_5]: <> (begin your text here)
 
-__Paragraph heading__         
+__Open Source and Working Open Principles__    
+
+FarmLink is intentionally structured as an open-source project, guided by the principles of transparency, collaboration, and shared ownership. Open-source development allows individuals from diverse backgrounds to contribute to the project, whether through coding, data entry, documentation, or feedback. The concept of “working open” extends beyond simply making the code available. It emphasizes the importance of conducting project activities in a transparent and collaborative manner, with participatory design methods applied when possible. This includes documenting workflows, openly discussing decisions, and creating accessible pathways for participation. By adopting a working open approach, FarmLink ensures that contributors can understand how the project operates and how they can get involved.
+
+Transparency is particularly important for a platform that relies on user generated information. By making data structures, contribution guidelines, and review processes visible, the project builds trust within the community. Users can see how information is verified and updated, reducing concerns about reliability. Additionally, open-source development supports adaptability. Other communities can replicate the FarmLink model and tailor it to their specific needs. This scalability increases the potential impact of the project and aligns with broader goals of knowledge sharing and community empowerment.
+
 
 [Comment_6]: <> (begin your text two spaces after the last underscore in the previous line)
+
+### Community and Collaboration
+
+Community Composition
+The FarmLink community consists of three primary groups: users, contributors, and maintainers. Users are individuals who rely on the platform to access information about local food sources. Contributors include farmers, volunteers, and developers who add and update information. Maintainers are responsible for overseeing the project, reviewing contributions, and ensuring consistency.
+
+Community Participation
+Participation is a central component of the platform. Users are encouraged to submit new farm listings, report outdated information, and suggest improvements. This participatory model ensures that the platform remains dynamic and responsive to changes. To accommodate different levels of technical expertise, the project provides multiple contribution pathways. Users who aren't very tech savy can submit updates through structured forms, while more technical contributors can engage through GitHub workflows such as issues and pull requests. This approach lowers barriers to participation and encourages broader involvement.
+
+Community Governance
+The governance structure of FarmLink is designed to balance openness with accountability. Maintainers are responsible for reviewing submissions and managing updates, while contributors provide input and improvements. Clear documentation outlines roles, responsibilities, and processes, ensuring that participants understand how to engage with the project.
+This governance model addresses common challenges in open-source projects, such as contributor turnover and inconsistent participation. By establishing structured processes, the project maintains continuity and ensures that contributions are effectively integrated.
+
+### Workflow and Process Mapping
+
+![](FINAL_PAPERS/Grey Blue Pink Green Bold Project Status Steps Flowchart (2).png)
+The workflow for FarmLink follows a structured cycle of submission, review, and release. This process aligns with workflow mapping principles discussed in class, emphasizing clarity, modularity, and continuous improvement.
+The submission stage involves collecting new data from users or contributors. This may include adding new farm listings or updating existing information. The review stage involves verifying the accuracy and completeness of submissions. Maintainers evaluate each entry based on predefined criteria, ensuring consistency and reliability. The release stage involves integrating approved updates into the platform and making them publicly accessible.
+This workflow is supported by a Kanban based project management system, where tasks are represented as GitHub issues and move through stages such as Backlog, To Do, Ready, In Progress, In Review, and Done. This structure provides a visual representation of progress and helps contributors understand the current state of the project.
 
 
 ### Conclusion      
