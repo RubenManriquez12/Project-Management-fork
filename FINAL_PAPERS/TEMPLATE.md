@@ -74,17 +74,41 @@ Community Governance
 The governance structure of FarmLink is designed to balance openness with accountability. Maintainers are responsible for reviewing submissions and managing updates, while contributors provide input and improvements. Clear documentation outlines roles, responsibilities, and processes, ensuring that participants understand how to engage with the project.
 This governance model addresses common challenges in open-source projects, such as contributor turnover and inconsistent participation. By establishing structured processes, the project maintains continuity and ensures that contributions are effectively integrated.
 
-### Workflow and Process Mapping
+### Process Mapping
 
 ![](https://github.com/RubenManriquez12/Project-Management-fork/blob/main/FINAL_PAPERS/Grey%20Blue%20Pink%20Green%20Bold%20Project%20Status%20Steps%20Flowchart%20(2).png)
-The workflow for FarmLink follows a structured cycle of submission, review, and release. This process aligns with workflow mapping principles discussed in class, emphasizing clarity, modularity, and continuous improvement.
-The submission stage involves collecting new data from users or contributors. This may include adding new farm listings or updating existing information. The review stage involves verifying the accuracy and completeness of submissions. Maintainers evaluate each entry based on predefined criteria, ensuring consistency and reliability. The release stage involves integrating approved updates into the platform and making them publicly accessible.
-This workflow is supported by a Kanban based project management system, where tasks are represented as GitHub issues and move through stages such as Backlog, To Do, Ready, In Progress, In Review, and Done. This structure provides a visual representation of progress and helps contributors understand the current state of the project.
+The process that FarmLink follows a structured cycle of submission, review, and release. This process aligns with workflow mapping principles discussed in class, emphasizing clarity, modularity, and continuous improvement. The submission stage involves collecting new data from users or contributors. This may include adding new farm listings or updating existing information. The review stage involves verifying the accuracy and completeness of submissions. Maintainers evaluate each entry based on predefined criteria, ensuring consistency and reliability. The release stage involves integrating approved updates into the platform and making them publicly accessible. This workflow is supported by a Kanban based project management system, where tasks are represented as GitHub issues and move through stages such as Backlog, To Do, Ready, In Progress, In Review, and Done. This structure provides a visual representation of progress and helps contributors understand the current state of the project.
 
+### Project Management Approach
 
-### Conclusion      
+FarmLink adopts an Agile project management approach, emphasizing flexibility, iteration, and continuous improvement. The use of a Kanban board allows the project to manage tasks in a dynamic and responsive manner.
+Each task is tracked as a GitHub issue, with labels used to categorize work and indicate priority. Contributors can easily identify tasks that require attention and collaborate on solutions. The iterative nature of Agile development ensures that the project evolves based on feedback and changing requirements.
+Regular updates and reviews help maintain alignment with project goals. By continuously refining processes and addressing challenges, the project remains adaptable and resilient.
 
-[Comment_7]: <> (begin your text here)
+### Technical Stack and Technical Debt
+
+The choice of Django and PostgreSQL provides a strong foundation for the project but also introduces certain trade-offs. Django’s structured framework requires adherence to specific design patterns, which can increase initial development time. However, this structure reduces the likelihood of errors and improves long-term maintainability.
+Technical debt is an unavoidable aspect of any project. In the case of FarmLink, initial technical debt may arise from simplifying features to accelerate development. Over time, additional debt may accumulate as the platform scales and requires updates or migrations.
+Managing technical debt involves balancing short-term efficiency with long-term sustainability. By using established tools and following best practices, the project minimizes the risk of excessive debt while maintaining flexibility.
+
+### Risks and Challenges
+
+Several risks must be addressed to ensure the success of FarmLink. Contributor turnover is a significant concern, particularly in a student-led environment. Strong documentation and onboarding processes are essential to maintaining continuity.
+Scalability is another challenge. As the platform grows, it may require more advanced infrastructure, such as cloud-based hosting solutions. This transition can be complex and resource-intensive.
+Data accuracy is also critical. Since the platform relies on community contributions, maintaining reliable information requires effective review processes and clear guidelines.
+
+###Future Development and Sustainability
+
+Future development of FarmLink will focus on expanding functionality and improving user experience. Potential features include advanced filtering, location-based search, and integration with mapping tools.
+The platform may also expand to additional regions, allowing it to serve a broader audience. Partnerships with local organizations could further enhance its impact.
+Sustainability will depend on continued community engagement and effective project management. By maintaining its open-source foundation, FarmLink can adapt to changing needs and remain relevant over time.
+
+### Conclusion
+
+FarmLink represents a practical application of open-source principles to address a real-world challenge in local food systems. By creating a centralized, community-driven platform for accessing farm information, the project aims to improve transparency, support small producers, and strengthen local economies.
+Through structured workflows, Agile project management, and community collaboration, FarmLink demonstrates how open-source projects can be effectively managed and sustained. While challenges such as technical debt, scalability, and contributor turnover must be addressed, the project provides a strong foundation for long-term success.
+Ultimately, FarmLink highlights the potential of collaborative systems to bridge information gaps and empower communities. Its success will depend not only on technical implementation but on the active participation and engagement of the people it serves.
+
 
 
 ### References     
